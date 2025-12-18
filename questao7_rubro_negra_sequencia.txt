@@ -1,0 +1,21 @@
+Questão 7 – Inserção em Árvore Rubro-Negra
+
+Sequência de chaves:
+(5, 16, 22, 45, 2, 10, 18, 30, 50, 12, 1)
+
+Após todas as inserções e ajustes de cores/rotações,
+a árvore Rubro-Negra resultante é:
+
+                16(B)
+              /        \
+          5(R)         30(R)
+         /    \       /      \
+     2(B)   10(B)  22(B)    45(B)
+     /          \               \
+   1(R)         12(R)           50(R)
+                    \
+                    18(R)
+
+Legenda:
+(B) = Preto
+(R) = Vermelho
