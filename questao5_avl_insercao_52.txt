@@ -1,0 +1,16 @@
+Questão 5 – Inserção em Árvore AVL
+
+Após inserir a chave 52 na árvore AVL da Figura 11.14b,
+ocorre um desbalanceamento do tipo DIREITA-ESQUERDA (RL).
+
+É aplicada:
+1) Rotação à direita no filho direito
+2) Rotação à esquerda no nó desbalanceado
+
+Árvore AVL resultante:
+
+        48
+       /  \
+     30    58
+    / \   /  \
+  24  40 52  62
