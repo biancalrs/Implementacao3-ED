@@ -1,0 +1,17 @@
+Questão 6 – Remoção em Árvore AVL
+
+Após remover a chave 62 da árvore AVL da Figura 11.14b,
+ocorre um desbalanceamento do tipo ESQUERDA-ESQUERDA (LL).
+
+É aplicada:
+- Rotação simples à direita
+
+Árvore AVL resultante:
+
+        30
+       /  \
+     24    48
+    /     /  \
+  11     40   58
+    \
+     13
