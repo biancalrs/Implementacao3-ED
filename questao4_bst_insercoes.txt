@@ -1,0 +1,75 @@
+Questão 4 – Inserção em Árvore Binária de Busca
+
+Sequência de chaves inseridas:
+30, 40, 24, 58, 48, 26, 11, 13
+
+Árvore após inserir 30:
+
+30
+
+
+Árvore após inserir 40:
+
+ 30
+   \
+    40
+
+
+Árvore após inserir 24:
+
+    30
+   /  \
+ 24   40
+
+
+Árvore após inserir 58:
+
+    30
+   /  \
+ 24   40
+        \
+         58
+
+
+Árvore após inserir 48:
+
+    30
+   /  \
+ 24   40
+        \
+         58
+        /
+      48
+
+
+Árvore após inserir 26:
+
+      30
+     /  \
+   24   40
+     \    \
+     26    58
+          /
+        48
+
+
+Árvore após inserir 11:
+
+        30
+       /  \
+     24   40
+    /  \    \
+  11   26    58
+            /
+          48
+
+
+Árvore após inserir 13:
+
+        30
+       /  \
+     24   40
+    /  \    \
+  11   26    58
+    \        /
+     13    48
